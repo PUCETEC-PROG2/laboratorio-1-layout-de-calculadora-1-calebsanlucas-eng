@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Caleb San Lucas
+- **Carrera**: Desarrollo de Software
+- **Fecha de entrega**: Viernes 24 de Octubre 2025
 
 ---
 
